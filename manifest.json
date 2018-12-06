@@ -1,0 +1,23 @@
+{
+	"name": "<YOUR APP NAME>",
+	"short_name": "<YOUR APP SHORT NAME>",
+	"description": "<APP DESCRIPTION>",
+	"icons": [
+		{
+			"src": "css/images/<APP IMAGE>.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "css/images/<SPLASH IMAGE>.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"lang": "en-US",
+	"start_url": ".",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#ececec",
+	"theme_color": "#0e0e0e",
+}
